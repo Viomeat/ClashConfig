@@ -64,6 +64,7 @@ rules:
     - 'DOMAIN,log.mmstat.com,DIRECT'
     - 'DOMAIN,sycm.mmstat.com,DIRECT'
     - 'DOMAIN,www.logitechg.com,节点选择'
+    - 'DOMAIN,jm365.work,节点选择'
     - 'DOMAIN,safebrowsing.googleapis.com,DIRECT'
     - 'DOMAIN,safebrowsing.googleapis-cn.com,DIRECT'
     - 'DOMAIN,safebrowsing.clients.google.com,DIRECT'
